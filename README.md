@@ -10,7 +10,7 @@
 3. Hyperparameter Tuning
 4. Building and training the final model
 5. Testing the model on the test set and visualizing model performance and prediction results
-## Artifacts
-#### Best models are saved and can be accesed via the artifacts folder.
+## Checkpoints
+#### Best-performing model checkpoints are saved in this folder and can be accessed for evaluation or further training.
 
 
