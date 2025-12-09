@@ -209,7 +209,6 @@ __marimo__/
 # data
 asl_alphabet_train/
 asl_alphabet_test/
-artifacts/
 
 # md files
 phase_1_project_plan.md
